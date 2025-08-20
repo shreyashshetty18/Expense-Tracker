@@ -2,7 +2,7 @@
 
 A simple, modern Expense Tracker web app built with vanilla JavaScript, HTML, and CSS. Easily track your income and expenses, view your transaction history, and see your current balance—all in your browser. Data is saved in your browser's local storage, so your transactions persist even after refreshing or closing the page.
 
-# LIVE DEMO (🔗) 
+# LIVE DEMO (🔗https://expensetrackeerr.netlify.app/) 
 
 ## Features
 
